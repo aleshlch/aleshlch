@@ -1,5 +1,6 @@
 
-![](https://raw.githubusercontent.com/aleshlch/aleshlch/main/icons/Comp 1_1.gif)
+<img src="https://raw.githubusercontent.com/aleshlch/aleshlch/main/icons/animated-blue.gif" />
+
 
 I'm a Front End Developer who can create responsive, accessible websites and web applications. I am passionate about technologies and love to learn something new .
 
