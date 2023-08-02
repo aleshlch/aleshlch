@@ -31,4 +31,6 @@ I'm a Front End Developer who can create responsive, accessible websites and web
   <img src="https://img.shields.io/badge/threejs-282C34?logo=three.js&logoColor=white" alt="THREE.JS logo" title="THREE.JS" height="25" />
 </p>
 
-## 👥 Connect with me
+## 👥 Connect with me:
+
+<img align="left" src="https://raw.githubusercontent.com/aleshlch/aleshlch/main/icons/email.png" alt="" height="60"/>
