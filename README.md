@@ -33,4 +33,6 @@ I'm a Front End Developer who can create responsive, accessible websites and web
 
 ## 👥 Connect with me:
 
+<img align="left" src="https://raw.githubusercontent.com/aleshlch/aleshlch/main/icons/telegram.png" alt="" height="60"/>
 <img align="left" src="https://raw.githubusercontent.com/aleshlch/aleshlch/main/icons/email.png" alt="" height="60"/>
+<img align="left" src="https://raw.githubusercontent.com/aleshlch/aleshlch/main/icons/instagram.png" alt="" height="60"/>
